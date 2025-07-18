@@ -1,0 +1,37 @@
+{
+    "title": "Abstract Compositions",
+    "medium": "Mixed Media",
+    "year": "2024",
+    "description": "An exploration of form, color, and texture through mixed media techniques. These pieces investigate the boundaries between traditional and digital art forms.",
+    "images": [
+        "composition1.jpg",
+        "composition2.jpg",
+        "process.jpg"
+    ],
+    "layout": {
+        "pages": [
+            {
+                "type": "info",
+                "content": [
+                    "title",
+                    "medium",
+                    "year",
+                    "description"
+                ]
+            },
+            {
+                "type": "full",
+                "content": [
+                    "composition1.jpg"
+                ]
+            },
+            {
+                "type": "gallery",
+                "content": [
+                    "composition2.jpg",
+                    "process.jpg"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "title": "Digital Landscape Series",
+    "medium": "Digital Photography",
+    "year": "2024",
+    "description": "A collection of landscape photographs capturing the serene beauty of natural environments through digital techniques. This series explores the relationship between technology and nature, using post-processing to enhance the emotional impact while maintaining the authenticity of the captured moments.",
+    "images": [
+        "hero.jpg",
+        "detail1.jpg",
+        "detail2.jpg",
+        "full-landscape.jpg"
+    ],
+    "layout": {
+        "pages": [
+            {
+                "type": "info",
+                "content": [
+                    "title",
+                    "medium",
+                    "year",
+                    "description",
+                    "hero.jpg"
+                ]
+            },
+            {
+                "type": "gallery",
+                "content": [
+                    "detail1.jpg",
+                    "detail2.jpg"
+                ]
+            },
+            {
+                "type": "full",
+                "content": [
+                    "full-landscape.jpg"
+                ]
+            }
+        ]
+    }
+}

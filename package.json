@@ -1,0 +1,36 @@
+{
+    "name": "pdf-portfolio-generator",
+    "version": "1.0.0",
+    "description": "Generate professional PDF portfolios from directory structure",
+    "main": "src/index.js",
+    "scripts": {
+        "start": "node src/index.js",
+        "dev": "node --watch src/index.js",
+        "test": "node test/test.js",
+        "test:jest": "jest",
+        "build": "echo 'No build process needed for Node.js'",
+        "setup": "./setup.sh",
+        "generate:all": "./generate-versions.sh"
+    },
+    "keywords": [
+        "pdf",
+        "portfolio",
+        "generator",
+        "art",
+        "photography",
+        "design"
+    ],
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+        "pdfkit": "^0.15.0",
+        "sharp": "^0.33.0",
+        "commander": "^11.1.0"
+    },
+    "devDependencies": {
+        "jest": "^29.7.0"
+    },
+    "engines": {
+        "node": ">=16.0.0"
+    }
+}

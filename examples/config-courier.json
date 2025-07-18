@@ -1,0 +1,18 @@
+{
+    "title": "Portfolio - Monospace Style",
+    "subtitle": "Creative Work with Courier Fonts",
+    "author": "Your Name",
+    "email": "your.email@example.com",
+    "website": "www.yourportfolio.com",
+    "output": "portfolio-courier.pdf",
+    "pageSize": "A4",
+    "orientation": "landscape",
+    "margin": 30,
+    "dpi": 300,
+    "fonts": {
+        "title": "Courier-Bold",
+        "heading": "Courier",
+        "body": "Courier",
+        "caption": "Courier-Oblique"
+    }
+}

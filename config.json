@@ -1,0 +1,23 @@
+{
+    "title": "Grayson Earle - Portfolio",
+    "subtitle": "Selected Works",
+    "author": "Grayson Earle",
+    "email": "grayson@graysonearle.com",
+    "website": "graysonearle.com",
+    "output": "grayson-earle-portfolio.pdf",
+    "pageSize": "A4",
+    "orientation": "landscape",
+    "margin": 30,
+    "dpi": 300,
+    "fonts": {
+        "title": "Helvetica-Bold",
+        "heading": "Helvetica",
+        "body": "Helvetica",
+        "caption": "Helvetica-Oblique"
+    },
+    "imageBorder": {
+        "enabled": false,
+        "width": 0.5,
+        "color": "#CCCCCC"
+    }
+}
